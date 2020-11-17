@@ -20,7 +20,7 @@ Mx| | | | | | | |
 Example:
 `Mx0248656c6c6f20576f726c64016b65790165b525` = `key='key', value='Hello World'`
 
-###[Online demo of encoding and decoding](https://github.com/counters)
+[Online demo of encoding and decoding](https://github.com/counters)
 
 ### Libraries
 Languages| Supported types | Url 
