@@ -19,7 +19,7 @@ Mx| | | | | | | |
 Example:
 `Mx0248656c6c6f20576f726c64016b65790165b525` = `key='key', value='Hello World'`
 
-Keyless encoding is also possible. [Picture](docs/static/Message_without_a_key.pn)
+Keyless encoding is also possible. [Picture](docs/static/Message_without_a_key.png)
 
 [Online demo of encoding and decoding](https://github.com/counters)
 
