@@ -31,7 +31,7 @@ Mx| | | | | | | |
 | | | | | | |65
 | | | | | | | |b525
 
-##### Registered types
+#### Registered types
 
 Type | Dec | Hex
 ---|---|---
