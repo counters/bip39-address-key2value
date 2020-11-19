@@ -53,5 +53,5 @@ Keyless encoding is also possible. [Picture](docs/static/Message_without_a_key.p
 ### Libraries
 Languages| Supported types | Url 
 ---|---|---
-Javascript|Integer, Double, ASCII|[comming soon](https://github.com/counters)
+Javascript|Integer, Double, ASCII|[counters/bip39-address-key2value.js](https://github.com/counters/bip39-address-key2value.js)
 Kotlin|Integer, ASCII|[comming soon](https://github.com/counters)
