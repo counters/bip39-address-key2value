@@ -18,6 +18,8 @@ Mx070420044304410441043a0438043903016bfc21 | `key=null, value='Русский'`
  
 [Online demo of encoding and decoding](https://github.com/counters) 
 
+----
+
 Prefix |Type| Payload | | Key|  |Noise| CRC | Description
 ---|---|---|---|---|---|---|---|---
 Mx| | | | | | | |
@@ -33,15 +35,15 @@ Mx| | | | | | | |
 
 Type | Dec | Hex
 ---|---|---
-RAW|1|01
-INTEGER|2|02
-ASCII|3|03
-DOUBLE|4|04
-BINARY|5|05
-UNIXTIME|6|06
-DATETIME|7|07
-UTF-8|8|08
-Minter PIP|9|09
+RAW|0|00
+INTEGER|1|01
+ASCII|2|02
+DOUBLE|3|03
+BINARY|4|04
+UNIXTIME|5|05
+DATETIME|6|06
+UTF-8|7|07
+Minter PIP|8|08
 Other type|255|ff
 
 
