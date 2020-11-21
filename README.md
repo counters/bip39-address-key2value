@@ -1,6 +1,6 @@
 # bip39-address-key2value
 
-Passing the key and value in the wallet address
+Passing the key and value in the wallet address. [Online demo](https://counters.github.io/bip39-address-key2value/) 
 
 ![Message with key](docs/static/Message_with_a_key.png "Message with key")
 
@@ -16,7 +16,7 @@ Mx07d83ddc4d016b6579310132335d56645d569cd7 | `key='key1', value='👍'`
 Mx01f5c6f51501636f756e740164587b202a777c51 | `key='count', value=4123456789`
 Mx070420044304410441043a0438043903016bfc21 | `key=null, value='Русский'`
  
-[Online demo of encoding and decoding](https://github.com/counters) 
+[Online demo of encoding and decoding](https://counters.github.io/bip39-address-key2value/) 
 
 ----
 
